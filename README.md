@@ -1,5 +1,7 @@
 # giffgaff 激活 eSIM 超详细教程
 
+GV、英国、美国和新西兰实体 SIM 卡：https://github.com/ssnhd/sim
+
 ## 准备
 
 1. 支持 eSIM 的手机，例如外版无锁 iPhone；
@@ -18,13 +20,3 @@
 7. 打开手机设置，蜂窝网络，SIM 卡里打开**启动此号码**，等待有信号即可，一般 1 小时内会激活好（最慢不超过 24 小时）。
 
 >官方说明：https://www.giffgaff.com/help/articles/how-do-i-get-an-esim-on-giffgaff
-
-## eSIM 转回实体卡
-
-1. 在 https://github.com/ssnhd/sim 订购一张未激活 SIM 卡；
-2. 登录 https://www.giffgaff.com/profile/details 找到 Replace my SIM，点击 **Activate your SIM**；
-3. 输入新 SIM 卡上 6 位激活码；
-4. 点击 **Yes, I want to replace my SIM**；
-5. 再点击 **Yes I'm sure**，等待即可，成功后号码和余额都会转到新卡。
-
->官方说明：https://help.giffgaff.com/en/articles/240706-can-i-switch-back-to-a-physical-sim-card-from-an-esim
